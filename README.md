@@ -11,7 +11,7 @@ This project allows users to search for and download high-quality images from Un
 To get started, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/image_python_unsplash.git
+git clone https://github.com/dehongi/image_python_unsplash.git
 cd image_python_unsplash
 pip install requests
 ```
